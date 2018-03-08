@@ -1,6 +1,18 @@
-frontend-nanodegree-classic-arcade-game
-===============================
+Front-end Nanodegree - Classic Arcade Game Project
+===================================================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+##Description:
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+This is my 5th project on Udacity Frontend nanodegree, It's called Frogger Classic Arcade Game
+the player is crossing the grass and rocks to reach the water trying to avoid the enemies [Bugs]
+
+##How to Play:
+
+* Using keyboard arrows:left key should move the player to the left, right key to the right, up key should move the player up and down key should move the player down.
+* The player only moves inside the canvas.
+* The player should avoid enemies [BUGS] to reach the water and win then the game will be reset
+* If the player collides the enemy the game will be reset and the player moves back to the initial location 
+
+##How to run the game:
+
+you can clone the project and run index.html
